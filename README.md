@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-**
+Link to Drive with GIF: https://drive.google.com/file/d/1R9S8C9UGe6dJMdzxSpuAbXBrhmobbSs9/view?usp=sharing
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
